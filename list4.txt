@@ -1,0 +1,142 @@
+DUP support:support:109.184.28.128
+admin:admin:109.184.28.128
+DUP support:support:178.45.111.156
+admin:admin:178.45.111.156
+DUP support:support:178.45.23.249
+admin:admin:178.45.23.249
+DUP support:support:109.184.219.20
+admin:admin:109.184.219.20
+DUP support:support:109.184.44.133
+admin:admin:109.184.44.133
+user:user:176.51.77.63
+admin:admin:178.45.202.237
+user:user:176.51.105.110
+DUP support:support:109.169.232.154
+admin:admin:109.169.232.154
+admin:admin:122.160.139.147
+DUP support:support:178.46.30.141
+user:user:178.46.30.141
+admin:admin:122.160.154.69
+DUP support:support:178.45.49.62
+admin:admin:178.45.49.62
+DUP support:support:178.46.10.75
+DUP user:user:178.46.10.75
+admin:admin:178.46.10.75
+DUP support:support:178.46.16.250
+user:user:178.46.16.250
+admin:admin:109.61.232.181
+DUP support:support:178.46.12.193
+admin:admin:178.46.12.193
+admin:admin:178.187.176.214
+root:root:2.182.95.254
+root:root:2.190.99.139
+root:root:188.209.68.92
+admin:admin:122.160.143.208
+admin:admin:106.201.236.108
+root:root:2.176.146.35
+root:root:2.191.30.107
+root:root:2.190.254.158
+DUP support:support:178.186.147.98
+user:user:178.186.147.98
+user:user:176.50.149.209
+root:root:2.177.120.19
+support:support:178.44.79.173
+admin:admin:178.44.247.176
+root:root:2.177.101.225
+root:root:188.211.44.8
+DUP support:support:178.46.14.187
+admin:admin:178.46.14.187
+admin:admin:178.45.11.28
+root:root:2.179.47.251
+user:user:176.51.44.114
+admin:admin:109.61.131.221
+admin:admin:122.160.2.25
+admin:admin:178.187.160.240
+admin:admin:178.187.217.72
+root:root:2.191.47.58
+root:root:2.177.73.27
+admin:admin:109.61.132.129
+admin:admin:178.44.20.48
+root:root:2.182.91.157
+root:root:2.176.113.85
+admin:admin:110.227.255.117
+admin:admin:178.44.128.107
+admin:admin:122.160.119.185
+support:support:178.45.105.141
+DUP support:support:178.45.30.56
+admin:admin:178.45.30.56
+DUP support:support:178.45.78.174
+admin:admin:178.45.78.174
+root:root:188.211.78.113
+root:root:2.178.8.31
+root:root:2.180.163.19
+root:root:188.211.36.215
+DUP support:support:176.50.142.19
+admin:admin:176.50.142.19
+root:root:188.211.36.92
+root:root:188.210.169.116
+support:support:178.187.161.173
+DUP support:support:178.45.71.172
+admin:admin:178.45.71.172
+DUP support:support:178.46.19.6
+user:user:178.46.19.6
+root:root:2.187.112.183
+root:root:2.177.160.182
+user:user:176.51.94.156
+usuario:usuario:181.112.35.146
+user:user:176.51.105.144
+DUP support:support:178.46.22.86
+user:user:178.46.22.86
+admin:admin:106.201.232.22
+DUP support:support:178.46.18.38
+admin:1234:178.46.18.38
+support:support:178.187.244.28
+DUP support:support:178.46.30.193
+DUP user:user:178.46.30.193
+admin:admin:178.46.30.193
+root:root:2.181.91.29
+root:root:2.177.76.112
+root:root:195.181.0.194
+root:root:2.191.23.207
+root:root:2.180.222.223
+support:support:178.46.23.192
+root:root:2.191.5.180
+root:root:188.210.141.242
+user:user:176.49.141.55
+root:root:2.177.115.13
+DUP support:support:178.44.53.25
+admin:admin:178.44.53.25
+root:root:2.177.17.66
+user:user:176.51.34.116
+root:root:188.211.38.186
+DUP support:support:178.44.43.189
+admin:admin:178.44.43.189
+usuario:usuario:181.113.2.22
+admin:admin:106.200.228.210
+admin:admin:106.201.237.254
+admin:admin:178.44.254.43
+root:root:2.177.69.240
+root:root:188.211.83.11
+DUP support:support:178.45.36.23
+admin:admin:178.45.36.23
+root:root:2.191.52.129
+user:user:176.51.41.252
+user:user:176.49.157.68
+DUP support:support:178.45.29.211
+admin:admin:178.45.29.211
+root:root:188.211.184.134
+root:root:2.190.253.49
+admin:admin:176.50.210.36
+root:root:2.191.31.255
+user:user:178.187.161.195
+user:user:176.51.105.169
+DUP support:support:178.45.97.216
+admin:admin:178.45.97.216
+root:root:2.190.125.110
+ubnt:ubnt:181.196.25.115
+root:root:2.177.22.242
+DUP support:support:178.46.20.126
+DUP user:user:178.46.20.126
+admin:1234:178.46.20.126
+root:root:2.183.190.100
+root:root:151.235.215.45
